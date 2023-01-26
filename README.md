@@ -1,4 +1,4 @@
-# Ejercicios de Python
+# Ejercicio con FastAPI
 
 Este es un ejercicio de python utilizando FastAPI que realice en el curso Basico de FastAPI de Platzi.
 
