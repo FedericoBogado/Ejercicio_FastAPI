@@ -9,6 +9,6 @@ El pryecto esta finalizado y es bastante basico.
 ## 🖥 Tecnologias utilizadas
 
  - [🐍Python](https://www.python.org/)
- - [⚡FastAPI](https://fastapi.tiangolo.com/)
- - [Pydantic](https://docs.pydantic.dev/)
- - [JWT](https://jwt.io/)
+   - [⚡FastAPI](https://fastapi.tiangolo.com/)
+   - [Pydantic](https://docs.pydantic.dev/)
+   - [JWT](https://jwt.io/)
