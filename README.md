@@ -8,7 +8,20 @@ El pryecto esta finalizado y es bastante basico.
 
 ## 🖥 Tecnologias utilizadas
 
- - [🐍Python](https://www.python.org/)
-   - [⚡FastAPI](https://fastapi.tiangolo.com/)
-   - [Pydantic](https://docs.pydantic.dev/)
-   - [JWT](https://jwt.io/)
+<p align="left">
+   <a href="https://www.python.org/">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="30" width="30">
+   </a>
+
+   <a href="https://fastapi.tiangolo.com/">
+    <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" alt="FastAPI" height=" 30" width="30">
+   </a>
+
+   <a href="https://docs.pydantic.dev/">
+    <img src="https://avatars.githubusercontent.com/u/110818415?s=280&v=4" alt="Pydantic" height=" 30" width="30">
+   </a>
+    
+   <a href="https://jwt.io/">
+    <img alt="JWT" src="https://miro.medium.com/max/480/1*qMC7g40mcQmeI3r-hMjY8Q.png" height="30" width="30">
+   </a>
+  </p>
